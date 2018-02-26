@@ -25,7 +25,7 @@ Tutorials about C++11, C++14, C++17 ...
 | 15| nullptr | |
 | 16| strongly type enums | |
 | 17| Attributes | |
-| 18| Delegating condtructors | |
+| 18| Delegating constructors | |
 | 19| Inheriting constructors | |
 | 20| Explicit conversion operators | |
 | 21| char16_t / char32_t | |
